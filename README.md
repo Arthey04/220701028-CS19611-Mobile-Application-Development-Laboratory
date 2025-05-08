@@ -1,1 +1,1 @@
-# 220701028-CS19601-RPA-Fundamentals-of-Mobile-Computing
+# 220701028-CS19611-Mobile Application Development Laboratory
